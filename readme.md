@@ -23,5 +23,5 @@ Built with [Creative coding course](https://www.domestika.org/en/courses/3862-cr
 
 ```
 yarn install
-npx canvas-sketch-cli skewing.js --open
+npx canvas-sketch-cli main.js --open
 ```
